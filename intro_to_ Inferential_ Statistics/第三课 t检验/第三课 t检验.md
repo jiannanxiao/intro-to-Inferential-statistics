@@ -275,7 +275,7 @@ $$
 
 ### Independent samples t-test assumptions
 
-1、X and Y should be random samples from two independent populations.
+1、X and Y should be random samples from **two independent populations**.
 
 2、Populations should be approximately normal.
 
